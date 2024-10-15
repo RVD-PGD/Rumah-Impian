@@ -1,0 +1,62 @@
+.body {
+    background-color: rgba(15, 160, 143, 0.1);
+    height: 100vh;
+    padding-top: 15vh;
+}
+
+.Tittle {
+    font-size: 62px;
+    font-weight: 600;
+    line-height: 93px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:rgba(11, 155, 138, 1);
+}
+
+.SubTittle {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.ContainerCard {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.Card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 60px;
+    width: 380px;
+    height: 320px;
+}
+
+.Icon {
+    border-radius: 75px;
+    width: 50px;
+    height: 50px;   
+    margin-bottom: 20px;
+}
+
+.CardTittle {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:rgba(11, 155, 138, 1);
+}
+
+.CardSubTittle {
+    text-align: center;
+}

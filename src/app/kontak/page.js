@@ -1,7 +1,7 @@
 import style from './page.module.css'
 import Image from 'next/image'
 
-export default function Rumah() {
+export default function Kontak() {
     return (
         <div>
             <div className={style.BackGroundSofa}>
